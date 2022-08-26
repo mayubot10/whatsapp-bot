@@ -1,6 +1,6 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "M_Piyuman",
+	"description": "*Hey_I.m_online_now.*",
 	"keywords": [
 		"whatsapp",
 		"bot"
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"M_Piyuman"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -49,9 +49,9 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "M_Piyuman",
             "required": true,
-            "value":"Raganork"
+            "value":"M_Piyuman"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -61,7 +61,7 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
@@ -69,7 +69,7 @@
             "value":"919074309534"
         },
         "ALIVE": {
-            "description": "Alive message {image/link}, {sender} can also be used",
+            "description": "Alive message {https://ibb.co/6B4tN2C}, {sender} can also be used",
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
